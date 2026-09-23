@@ -52,9 +52,9 @@ The proposed ATRO framework will investigate:
 
 | Phase                       | Status         |
 | --------------------------- | -------------- |
-| Literature Survey           | 🟢 In Progress |
-| Research Gap Identification | 🟢 In Progress |
-| System Design               | ⏳ Upcoming     |
+| Literature Survey           | 🟢 Completed    |
+| Research Gap Identification | 🟢 Completed    |
+| System Design               | ⏳ In progress  |
 | Dataset Preparation         | ⏳ Upcoming     |
 | Implementation              | ⏳ Upcoming     |
 | Model Development           | ⏳ Upcoming     |
